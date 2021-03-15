@@ -27,5 +27,7 @@ gaya karena itu berbahaya.</string>
     <string name="saran_gemuk">Cobalah untuk olahraga lari,jangan seperti himari. Kemanapun boleh,
 asal tidak lari dari kenyataan dan mangkal di kantin FIT.</string>
     <string name="lihat_saran">lihat_saran</string>
+    <string name="copyright"><![CDATA[>Hitung BMI merupakan sebuah aplikasi Android untuk menghitung body mass index (BMI) sehingga seseorang dapat mengetahui apakah berat badannya ideal, gemuk atau kurus.\n\nAplikasi ini dibuat untuk kelas Mobpro 1. Temukan kodenya di https://github.com/indraazimi/hitungbmi\n\nCopyright © 2021 Indra Azimi.\nAll rights reserved.]]></string>
+    <string name="tentang_aplikasi">tentang_aplikasi</string>
     <dimen name="horizontal_margin">16dp</dimen>
 </resources>
