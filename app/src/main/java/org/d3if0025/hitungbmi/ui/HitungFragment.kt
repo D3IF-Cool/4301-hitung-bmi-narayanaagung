@@ -24,6 +24,7 @@ class HitungFragment : Fragment() {
         binding = FragmentHitungBinding.inflate(
             layoutInflater, container, false)
         binding.button.setOnClickListener { hitungBmi() }
+        binding.btnReset.setOnClickListener { reset() }
         binding.saranButton.setOnClickListener { view: View ->
             view.findNavController().navigate(
                 HitungFragmentDirections.
