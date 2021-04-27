@@ -101,8 +101,8 @@ class HitungFragment : Fragment() {
         }
     }
 
-    private fun getKategori(kategoriBmi: KategoriBmi):String{
-        val stringRes = when (kategoriBmi) {
+    private fun getKategori(kategori: KategoriBmi):String{
+        val stringRes = when (kategori) {
             KategoriBmi.KURUS -> R.string.kurus
             KategoriBmi.IDEAL -> R.string.ideal
             KategoriBmi.GEMUK -> R.string.gemuk
